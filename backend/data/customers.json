@@ -1,0 +1,255 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST001",
+      "name": "Rajesh Kumar",
+      "age": 35,
+      "city": "Mumbai",
+      "phone": "+91-9876543210",
+      "email": "rajesh.kumar@email.com",
+      "address": "42, Marine Drive, Mumbai, Maharashtra 400002",
+      "credit_score": 780,
+      "existing_loans": [
+        {
+          "type": "Auto Loan",
+          "amount": 500000,
+          "disbursement_date": "2023-03-15",
+          "emi": 12500,
+          "outstanding": 350000
+        }
+      ],
+      "pre_approved_limit": 300000,
+      "salary": 85000,
+      "employment_type": "Salaried",
+      "company": "Tech Solutions Pvt Ltd"
+    },
+    {
+      "customer_id": "CUST002",
+      "name": "Priya Sharma",
+      "age": 29,
+      "city": "Bangalore",
+      "phone": "+91-9876543211",
+      "email": "priya.sharma@email.com",
+      "address": "15, Whitefield Road, Bangalore, Karnataka 560066",
+      "credit_score": 825,
+      "existing_loans": [
+        {
+          "type": "Home Loan",
+          "amount": 3500000,
+          "disbursement_date": "2022-06-10",
+          "emi": 35000,
+          "outstanding": 3200000
+        }
+      ],
+      "pre_approved_limit": 500000,
+      "salary": 120000,
+      "employment_type": "Salaried",
+      "company": "Infosys Technologies"
+    },
+    {
+      "customer_id": "CUST003",
+      "name": "Amit Patel",
+      "age": 42,
+      "city": "Ahmedabad",
+      "phone": "+91-9876543212",
+      "email": "amit.patel@email.com",
+      "address": "23, CG Road, Ahmedabad, Gujarat 380009",
+      "credit_score": 650,
+      "existing_loans": [
+        {
+          "type": "Personal Loan",
+          "amount": 200000,
+          "disbursement_date": "2023-09-20",
+          "emi": 8500,
+          "outstanding": 150000
+        }
+      ],
+      "pre_approved_limit": 100000,
+      "salary": 55000,
+      "employment_type": "Salaried",
+      "company": "Gujarat Industries Ltd"
+    },
+    {
+      "customer_id": "CUST004",
+      "name": "Sneha Reddy",
+      "age": 31,
+      "city": "Hyderabad",
+      "phone": "+91-9876543213",
+      "email": "sneha.reddy@email.com",
+      "address": "78, Jubilee Hills, Hyderabad, Telangana 500033",
+      "credit_score": 795,
+      "existing_loans": [],
+      "pre_approved_limit": 400000,
+      "salary": 95000,
+      "employment_type": "Salaried",
+      "company": "Wipro Limited"
+    },
+    {
+      "customer_id": "CUST005",
+      "name": "Vikram Singh",
+      "age": 38,
+      "city": "Delhi",
+      "phone": "+91-9876543214",
+      "email": "vikram.singh@email.com",
+      "address": "56, Connaught Place, New Delhi 110001",
+      "credit_score": 710,
+      "existing_loans": [
+        {
+          "type": "Auto Loan",
+          "amount": 800000,
+          "disbursement_date": "2023-01-10",
+          "emi": 18000,
+          "outstanding": 650000
+        }
+      ],
+      "pre_approved_limit": 250000,
+      "salary": 75000,
+      "employment_type": "Salaried",
+      "company": "HCL Technologies"
+    },
+    {
+      "customer_id": "CUST006",
+      "name": "Ananya Iyer",
+      "age": 27,
+      "city": "Chennai",
+      "phone": "+91-9876543215",
+      "email": "ananya.iyer@email.com",
+      "address": "12, Anna Nagar, Chennai, Tamil Nadu 600040",
+      "credit_score": 850,
+      "existing_loans": [],
+      "pre_approved_limit": 600000,
+      "salary": 140000,
+      "employment_type": "Salaried",
+      "company": "Cognizant Technology Solutions"
+    },
+    {
+      "customer_id": "CUST007",
+      "name": "Rahul Mehta",
+      "age": 45,
+      "city": "Pune",
+      "phone": "+91-9876543216",
+      "email": "rahul.mehta@email.com",
+      "address": "89, Koregaon Park, Pune, Maharashtra 411001",
+      "credit_score": 680,
+      "existing_loans": [
+        {
+          "type": "Personal Loan",
+          "amount": 300000,
+          "disbursement_date": "2024-02-15",
+          "emi": 12000,
+          "outstanding": 270000
+        },
+        {
+          "type": "Auto Loan",
+          "amount": 600000,
+          "disbursement_date": "2022-11-05",
+          "emi": 14500,
+          "outstanding": 280000
+        }
+      ],
+      "pre_approved_limit": 150000,
+      "salary": 68000,
+      "employment_type": "Salaried",
+      "company": "Persistent Systems"
+    },
+    {
+      "customer_id": "CUST008",
+      "name": "Kavita Desai",
+      "age": 33,
+      "city": "Surat",
+      "phone": "+91-9876543217",
+      "email": "kavita.desai@email.com",
+      "address": "45, Ring Road, Surat, Gujarat 395002",
+      "credit_score": 760,
+      "existing_loans": [
+        {
+          "type": "Home Loan",
+          "amount": 2500000,
+          "disbursement_date": "2021-08-20",
+          "emi": 25000,
+          "outstanding": 2100000
+        }
+      ],
+      "pre_approved_limit": 350000,
+      "salary": 88000,
+      "employment_type": "Salaried",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "customer_id": "CUST009",
+      "name": "Arjun Nair",
+      "age": 40,
+      "city": "Kochi",
+      "phone": "+91-9876543218",
+      "email": "arjun.nair@email.com",
+      "address": "67, MG Road, Kochi, Kerala 682016",
+      "credit_score": 720,
+      "existing_loans": [],
+      "pre_approved_limit": 280000,
+      "salary": 72000,
+      "employment_type": "Salaried",
+      "company": "UST Global"
+    },
+    {
+      "customer_id": "CUST010",
+      "name": "Meera Joshi",
+      "age": 36,
+      "city": "Jaipur",
+      "phone": "+91-9876543219",
+      "email": "meera.joshi@email.com",
+      "address": "34, MI Road, Jaipur, Rajasthan 302001",
+      "credit_score": 810,
+      "existing_loans": [
+        {
+          "type": "Personal Loan",
+          "amount": 150000,
+          "disbursement_date": "2023-07-12",
+          "emi": 6500,
+          "outstanding": 100000
+        }
+      ],
+      "pre_approved_limit": 450000,
+      "salary": 105000,
+      "employment_type": "Salaried",
+      "company": "Genpact India"
+    },
+    {
+      "customer_id": "CUST011",
+      "name": "Sanjay Gupta",
+      "age": 50,
+      "city": "Kolkata",
+      "phone": "+91-9876543220",
+      "email": "sanjay.gupta@email.com",
+      "address": "91, Park Street, Kolkata, West Bengal 700016",
+      "credit_score": 690,
+      "existing_loans": [
+        {
+          "type": "Home Loan",
+          "amount": 4000000,
+          "disbursement_date": "2020-04-18",
+          "emi": 38000,
+          "outstanding": 3400000
+        }
+      ],
+      "pre_approved_limit": 200000,
+      "salary": 92000,
+      "employment_type": "Salaried",
+      "company": "ITC Limited"
+    },
+    {
+      "customer_id": "CUST012",
+      "name": "Divya Krishnan",
+      "age": 28,
+      "city": "Bangalore",
+      "phone": "+91-9876543221",
+      "email": "divya.krishnan@email.com",
+      "address": "22, Indiranagar, Bangalore, Karnataka 560038",
+      "credit_score": 870,
+      "existing_loans": [],
+      "pre_approved_limit": 550000,
+      "salary": 135000,
+      "employment_type": "Salaried",
+      "company": "Amazon Development Centre"
+    }
+  ]
+}

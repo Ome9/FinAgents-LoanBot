@@ -1,0 +1,172 @@
+# ====================================
+# Python
+# ====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+backend/venv/
+backend/.venv/
+
+# PyInstaller
+*.pyc
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ====================================
+# Node.js / NPM
+# ====================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+.npm
+.eslintcache
+
+# Diagrams node_modules
+Diagrams/node_modules/
+Diagrams/package-lock.json
+
+# ====================================
+# Environment Variables
+# ====================================
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# ====================================
+# IDEs and Editors
+# ====================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ====================================
+# Build Outputs
+# ====================================
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# ====================================
+# Operating System
+# ====================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ====================================
+# Generated Files
+# ====================================
+# PDF sanction letters
+*.pdf
+backend/generated_documents/*.pdf
+frontend/public/sanction-letters/*.pdf
+
+# Keep example PDFs if any
+!*example*.pdf
+!*sample*.pdf
+
+# Generated data
+backend/data/generated/
+
+# Graphviz generated files
+Diagrams/*.gv
+Diagrams/*.dot
+
+# ====================================
+# Logs
+# ====================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+backend/logs/
+frontend/logs/
+
+# ====================================
+# Test Files
+# ====================================
+backend/test_*.py
+backend/__pycache__/
+*.pytest_cache/
+
+# ====================================
+# Documentation Temp Files
+# ====================================
+IMPLEMENTATION_COMPLETE.md
+QUICKREF.md
+TESTING.md
+wireframe_instructions.md
+
+# ====================================
+# Database
+# ====================================
+*.sqlite
+*.db
+
+# ====================================
+# Puppeteer / Browser Automation
+# ====================================
+.local-chromium/
+Diagrams/.local-chromium/
+
+# ====================================
+# Miscellaneous
+# ====================================
+*.bak
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
