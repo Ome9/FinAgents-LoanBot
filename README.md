@@ -101,23 +101,6 @@ Supplies pre-approved loan offers and interest rates based on customer profiles.
 ![Landing Page](Diagrams/wireframe_01_landing.png)
 *Landing page with customer selection*
 
-![Sales Conversation](Diagrams/wireframe_05_sales_conversation.png)
-*AI-powered sales conversation collecting loan requirements*
-
-![Verification Stage](Diagrams/wireframe_07_verification_stage.png)
-*Customer profile verification with CRM data*
-
-![Approval Screen](Diagrams/wireframe_08_approval_screen.png)
-*Loan approval with detailed breakdown*
-
-![Sanction Letter](Diagrams/wireframe_09_sanction_letter.png)
-*Professional sanction letter generation with download/email options*
-
-### Mobile Interface
-
-![Mobile View](Diagrams/wireframe_10_mobile_view.png)
-*Fully responsive mobile interface*
-
 ## Technology Stack
 
 ### Backend
