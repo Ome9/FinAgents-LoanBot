@@ -384,4 +384,4 @@ For issues and questions, please create an issue in the repository or contact th
 
 ---
 
-Built with advanced AI technology for the EY Techathon 2025
+Built with advanced AI technology for the EY Techathon 2025.
